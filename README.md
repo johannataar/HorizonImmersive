@@ -1,6 +1,6 @@
 # HorizonImmersive
 
-Upload any inspirational work, sketches and ideas in the <b>wiki page</b> !
+Upload any inspirational work, sketches and ideas in the <b><a href="https://github.com/johannataar/HorizonImmersive/wiki">wiki page</b></a> !
 
 Add to the project's summary down here:
 
